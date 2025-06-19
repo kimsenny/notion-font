@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Haewon';
+  src: url('./haewon.woff2') format('woff2'),
+       url('./haewon.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body, * {
+  font-family: 'Haewon', sans-serif !important;
+}
