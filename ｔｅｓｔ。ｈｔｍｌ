@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>Haewon Font Test</title>
+  <link rel="stylesheet" href="https://kimsenny.github.io/notion-font/haewon.css">
+  <style>
+    body {
+      font-size: 20px;
+      line-height: 1.6;
+      padding: 2rem;
+      background-color: #f9f9f9;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>안녕하세요, 이것은 해원 글꼴입니다.</h1>
+  <p>
+    가각간갈갉갓감갑값갱걀걔거건검것게격결계고곡공과광괘괴교구군궁귀그극근글금급긍기길김깊...
+  </p>
+</body>
+</html>
+Add test.html for font check
